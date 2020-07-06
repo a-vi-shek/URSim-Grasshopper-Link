@@ -1,2 +1,2 @@
 # URSim-Grasshopper-Link
-This repository holds methods of connecting Grasshopper + Robots with URSim
+![URSim Grasshopper Link](/images/01_header.png)
