@@ -48,16 +48,16 @@ __*Now follow the steps to get a working version of URSim in VM VirualBox*__
 
 4. Next step is to assign an existing hard disk. When prompted, clck on _Use and Existing virtual hard disk file_ and click on the Folder icon beside it.
 
-![Select HD](/images/06_ursim_vm_chose_hd_1)
+![Select HD](/images/06_ursim_vm_chose_hd_1.jpg)
 
 5. Click on _Add_ and browse to the folder where you have extracted the URSim ZIP file and select the file on top of the list.
 
-![Select HD1](/images/06_ursim_vm_chose_hd_2)
+![Select HD1](/images/06_ursim_vm_chose_hd_2.jpg)
 
-![Select HD2](/images/06_ursim_vm_chose_hd_3)
+![Select HD2](/images/06_ursim_vm_chose_hd_3.jpg)
 
 6. Now click on _Create_ button and your Virtual Machine will be ready.
 
-![Select HD3](/images/06_ursim_vm_chose_hd_4)
+![Select HD3](/images/06_ursim_vm_chose_hd_4.jpg)
 
 ![Created VM](/images/06_ursim_vm_create.jpg)
