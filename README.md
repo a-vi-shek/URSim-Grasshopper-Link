@@ -93,3 +93,21 @@ __*Now follow the steps to get a working version of URSim in VM VirualBox*__
 
 # 5. Communicated and Simulate with Grasshopper
 ##### Dependency: https://github.com/visose/Robots
+
+![GH Code](/images/grasshopper_code.png)
+
+In the Grasshopper code in the example folder, the code is arranged according to robot model, plane generation, program simulation and code uploading using the Remote Connection component.
+
+In the P: connect the program; in the IP: connect a panel with the IP we gathered from the earlier step ( in this case 192.168.56.103 ). Add three button in Upload Code, Play and Stop. Once the program is ready, press the Upload button and Grasshopper will send the robot code to the URSim.
+
+![GH Animation](/images/gh_ursim_animation.gif)
+
+###### Following functions can be utilized with this setup:
+
+* Upload a robot code to check the functionality
+* Read robot position real time
+* Read Digital outputs
+
+###### Limitations
+
+* No force-torque data
