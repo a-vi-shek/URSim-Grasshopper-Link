@@ -10,10 +10,24 @@ This method is built upon this [guide](https://academy.universal-robots.com/medi
 
 ## Steps
 
-* Install Oracle VMware
-* Download preferred URSim Version
-* Install URSim
+* Install Oracle virtualbox
+* Download preferred version of URSim
+* Install URSim VirualBox
 * Configure VMWare to connect with Windows
 * Simulate with Grasshopper
 
-# 1. Install Oracle VMWare
+# 1. Install Oracle VirualBox
+
+* Download Oracle VM VirualBox from [here](https://www.oracle.com/virtualization/technologies/vm/virtualbox.html) and install.
+
+# 2. Download preferred version of URSim
+* Download your preferred version of URSim ( CB-series or e-Series) from [here](https://www.universal-robots.com/download/). This guide is meant for Windows. So when prompted please chose the *non linux* version of the software. While downloading you need to follow the steps in the download link.
+  * **1. Robot Type:** either CB or e Series (mine is a CB series)
+  * **2. Select type of download for CB-Series:**  Software
+  * **3. Select type of software:** Offline simulator
+  * **4.Select operating system for your computer:** Non linux
+  * **5.Select Software version:** 3.13.* (Mine is 3.13. You can chose to have older version even)
+* Save the Zip file and Unzip the contents of the file to a folder with preferably administrative rights.
+* The contents of the folder should look like this.
+
+![URSim Unzipped](/images/02_ursim_unzipped.PNG)
