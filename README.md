@@ -10,11 +10,11 @@ This method is built upon this [guide](https://academy.universal-robots.com/medi
 
 ## Steps
 
-* Install Oracle VM Virtualbox
-* Download preferred version of URSim
-* Install URSim in VirualBox
-* Configure VMWare to connect with Windows
-* Simulate with Grasshopper
+1. Install Oracle VM Virtualbox
+2. Download preferred version of URSim
+3. Install URSim in VirualBox
+4. Configure VMWare to connect with Windows
+5. Simulate with Grasshopper
 
 # 1. Install Oracle VirualBox
 
@@ -34,12 +34,28 @@ This method is built upon this [guide](https://academy.universal-robots.com/medi
 # 3. Install Install URSim in Virtualbox
 __*Now follow the steps to get a working version of URSim in VM VirualBox*__
 
-* Open Oracle Vm VirtualBox Manager and click on 'New'
+1. Open Oracle Vm VirtualBox Manager and click on 'New'
 
 ![Click on New](/images/03_ursim_vm_start.jpg)
 
-* Give it a relevant name and chose where to keep the Virual Machine. On machine type select **Linux** and Version as **Ubuntu 64 Bit**.
+2. Give it a relevant name and chose where to keep the Virual Machine. On machine type select **Linux** and Version as **Ubuntu 64 Bit**.
 
 ![Machine Type](/images/04_ursim_vm_chose_OS_type.jpg)
 
-*
+3. Assign around 1-2 GB of memory depending on your base system
+
+![Assign memory](/images/05_ursim_vm_assign_ram.jpg)
+
+4. Next step is to assign an existing hard disk. When prompted, clck on _Use and Existing virtual hard disk file_ and click on the Folder icon beside it.
+
+![Select HD](/images/06_ursim_vm_chose_hd_1)
+
+5. Click on _Add_ and browse to the folder where you have extracted the URSim ZIP file and select the file on top of the list.
+
+![Select HD](/images/06_ursim_vm_chose_hd_2)
+![Select HD](/images/06_ursim_vm_chose_hd_3)
+
+6. Now click on _Create_ button and your Virtual Machine will be ready.
+
+![Select HD](/images/06_ursim_vm_chose_hd_4)
+![Select HD](/images/06_ursim_vm_create.jpg)
