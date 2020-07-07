@@ -85,7 +85,7 @@ __*Now follow the steps to get a working version of URSim in VM VirualBox*__
 
 7. Under IP address it should show the same IP.
 
-![Network UR](/images/09_ursim_polyscope_2.jpg)
+![Network UR2](/images/09_ursim_polyscope_2.jpg)
 
 8. While the VM is active, in Windows, go to Run> CMD and ping the IP address using _ping 192.168.56.103_. If everything has been followed properly you should get reply from the server.
 
