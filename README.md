@@ -1,4 +1,4 @@
-# URSim-Grasshopper-Link
+# Offline simulation of Universal Robots and testing with Rhino-Grasshopper
 
 ![URSim Grasshopper Link](/images/01_header.png)
 
