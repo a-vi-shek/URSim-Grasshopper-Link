@@ -10,9 +10,9 @@ This method is built upon this [guide](https://academy.universal-robots.com/medi
 
 ## Steps
 
-* Install Oracle virtualbox
+* Install Oracle VM Virtualbox
 * Download preferred version of URSim
-* Install URSim VirualBox
+* Install URSim in VirualBox
 * Configure VMWare to connect with Windows
 * Simulate with Grasshopper
 
@@ -31,3 +31,16 @@ This method is built upon this [guide](https://academy.universal-robots.com/medi
 * The contents of the folder should look like this.
 
 ![URSim Unzipped](/images/02_ursim_unzipped.PNG)
+
+# 3. Install Install URSim in Virtualbox
+__*Now follow the steps to get a working version of URSim in VM VirualBox*__
+
+* Open Oracle Vm VirtualBox Manager and click on 'New'
+
+![Click on New](/images/03_ursim_vm_start.jpg)
+
+* Give it a relevant name and chose where to keep the Virual Machine. On machine type select **Linux** and Version as **Ubuntu 64 Bit**.
+
+![Mahcine Type](/images/04_ursim_vm_chose_OS_type.jpg)
+
+*
