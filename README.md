@@ -52,10 +52,12 @@ __*Now follow the steps to get a working version of URSim in VM VirualBox*__
 
 5. Click on _Add_ and browse to the folder where you have extracted the URSim ZIP file and select the file on top of the list.
 
-![Select HD](/images/06_ursim_vm_chose_hd_2)
-![Select HD](/images/06_ursim_vm_chose_hd_3)
+![Select HD1](/images/06_ursim_vm_chose_hd_2)
+
+![Select HD2](/images/06_ursim_vm_chose_hd_3)
 
 6. Now click on _Create_ button and your Virtual Machine will be ready.
 
-![Select HD](/images/06_ursim_vm_chose_hd_4)
-![Select HD](/images/06_ursim_vm_create.jpg)
+![Select HD3](/images/06_ursim_vm_chose_hd_4)
+
+![Created VM](/images/06_ursim_vm_create.jpg)
