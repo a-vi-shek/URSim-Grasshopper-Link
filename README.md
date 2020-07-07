@@ -60,16 +60,18 @@ __*Now follow the steps to get a working version of URSim in VM VirualBox*__
 
 ![Select HD3](/images/06_ursim_vm_chose_hd_4.jpg)
 
-7. Now click on the settings to change a crucial network property and a display property.
+# 4. Configure VMWare to connect with Windows
+
+1. Now click on the settings to change a crucial network property and a display property.
 
 ![Created VM](/images/06_ursim_vm_create.jpg)
 
-8.  On _Display_ tab change the Graphics Controller to VBoxSVGA.
+2.  On _Display_ tab change the Graphics Controller to VBoxSVGA.
 
 ![Change Display](/images/07_ursim_vm_display.jpg)
 
-9. On _Network_ tab change the _Attached to_ to _Host-only Adapter_
+3. On _Network_ tab change the _Attached to_ to _Host-only Adapter_
 
 ![Change Network](/images/07_ursim_vm_network.jpg)
 
-10. Now you can start your Virtual Machine.
+4. Now you can start your Virtual Machine.
