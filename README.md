@@ -30,7 +30,7 @@ This method is built upon this [guide](https://academy.universal-robots.com/medi
 * Save the Zip file and Unzip the contents of the file to a folder with preferably administrative rights.
 * The contents of the folder should look like this.
 
-![URSim Unzipped](/images/02_ursim_unzipped.PNG)
+![URSim Unzipped](/images/02_ursim_unzipped.jpg)
 # 3. Install Install URSim in Virtualbox
 __*Now follow the steps to get a working version of URSim in VM VirualBox*__
 
