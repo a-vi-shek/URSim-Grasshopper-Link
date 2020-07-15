@@ -75,7 +75,7 @@ __*Now follow the steps to get a working version of URSim in VM VirualBox*__
 ![Change Network](/images/07_ursim_vm_network.jpg)
 
 4. Now you can start your Virtual Machine.
-5. Click on the icon on the bottom left and open _Systm Tools> UXTerm_ and type **ifconfig**. The network address under _eth0_ is the robot IP. In this case 192.168.56.103
+5. Click on the icon on the bottom left and open _Systm Tools> UXTerm_ and type `ifconfig`. The network address under _eth0_ is the robot IP. In this case 192.168.56.103
 
 ![Network Address](/images/08_ursim_vm_network_linux_side.jpg)
 
@@ -87,7 +87,7 @@ __*Now follow the steps to get a working version of URSim in VM VirualBox*__
 
 ![Network UR2](/images/09_ursim_polyscope_2.JPG)
 
-8. While the VM is active, in Windows, go to Run> CMD and ping the IP address using _ping 192.168.56.103_. If everything has been followed properly you should get reply from the server.
+8. While the VM is active, in Windows, go to Run> CMD and ping the IP address using `ping 192.168.56.103`. If everything has been followed properly you should get reply from the server.
 
 ![Network Reply](/images/08_ursim_vm_network_ping.jpg)
 
